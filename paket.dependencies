@@ -1,0 +1,8 @@
+source https://api.nuget.org/v3/index.json
+source https://www.nuget.org/api/v2/
+
+nuget Expression.Blend.Sdk
+nuget FSharp.Control.Reactive
+nuget FsXaml.Wpf
+nuget Aether
+nuget Rx-Xaml
