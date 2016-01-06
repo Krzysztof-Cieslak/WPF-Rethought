@@ -19,7 +19,7 @@ namespace ReactiveBinding
 
         public ReactiveBinding(PropertyPath path)
         {
-            Path = Path;
+            Path = path;
         }
 
         sealed class Proxy : INotifyPropertyChanged
